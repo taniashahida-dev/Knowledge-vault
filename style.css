@@ -1,0 +1,30 @@
+ *{
+    margin: 0px;
+    padding: 0px;
+ }
+ nav ul li{
+   list-style-type: none;
+   display: flex;  
+}
+nav ul{
+display: flex;
+gap: 32px;
+margin-top: 20px;
+color: #000000;
+font-weight: 500;
+}
+nav {
+    display: flex;
+    justify-content:space-around;
+    margin: 30px 0px;
+}
+.nav-button{
+    background-color: #30B868;
+    color: #FFFFFF;
+    padding: 12px 16px;
+    font-size: smaller;
+    width: 160px;
+    height: 44px;
+    border: none;
+    border-radius: 4px;
+}
