@@ -43,7 +43,7 @@ nav {
    height: 600px;
     
 }
-  .hero-sec , .card-heading , .challenge-section{
+  .hero-sec , .card-heading , .challenge-section {
     display: flex;
    flex-direction: column;
     align-items: center;
@@ -147,12 +147,44 @@ margin: 10px 0px;
   width: 1100px;
   height: 200px;
   background-color: #F7F6F2;
-  margin:  250px 0px ;
+  margin-top:  250px ;
+  margin-bottom: 100px;
   margin-left: 160px;
+  
   
 }
 .challenge-section p{
   font-size: small;
     color: #627382;
     margin: 20px;
+}
+.footer{
+  display: flex;
+  justify-content: space-between;
+ 
+  height: 250px;
+  padding: 160px 180px 30px 155px;
+  
+}
+
+.social-link img {
+  margin-top: 5px;
+padding: 5px;
+height: 30px;
+}
+
+.line {
+  width: 1280px;
+  margin-left: 120px;
+  height: 1px;
+  background: rgba(255, 255, 255, 0.12);
+}
+
+.copy-right{
+  background-color: #061c32;
+  color: #b0bec5;
+  text-align: center;
+  padding: 20px 0;
+  font-size: 13px;
+
 }
