@@ -188,3 +188,8 @@ height: 30px;
   font-size: 13px;
 
 }
+button:hover {
+  background-color: #4ec09a;
+  color: #100f0f;
+  transition: 0.3s;
+}
