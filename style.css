@@ -35,7 +35,7 @@ nav {
 }
 
 .hero-bg{
-    background-image:url(./assets/hero-bg.png);
+    background-image: linear-gradient(rgba(0, 25, 49, 0.2), rgba(0, 25, 49, 0.2)),url(./assets/hero-bg.png);
    background-repeat: no-repeat;
    background-position: center;
    background-size: cover;
